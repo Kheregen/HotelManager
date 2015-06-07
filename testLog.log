@@ -1,0 +1,16 @@
+V 20, 2015 12:01:09 ODP. guiPackage.NewFrame$AccomodateSwingWorker doInBackground
+INFO: Guest(1) accomodated in room(2)
+V 20, 2015 12:03:01 ODP. guiPackage.NewFrame$AccomodateSwingWorker doInBackground
+INFO: Guest(1) accomodated in room(3)
+V 20, 2015 12:06:55 ODP. guiPackage.NewFrame$FindGuestFromRoomSwingWorker doInBackground
+INFO: found(12)guests in room(2).
+V 20, 2015 12:07:14 ODP. guiPackage.NewFrame$RemoveGuestFromRoomSwingWorker doInBackground
+INFO: Guest(1) successfully removed from room(2)
+V 20, 2015 12:20:58 ODP. guiPackage.NewFrame$RemoveGuestFromRoomSwingWorker doInBackground
+INFO: Guest(1) successfully removed from room(2)
+V 20, 2015 12:20:59 ODP. guiPackage.NewFrame$RemoveGuestFromRoomSwingWorker doInBackground
+INFO: Guest(1) successfully removed from room(3)
+V 20, 2015 12:21:00 ODP. guiPackage.NewFrame$RemoveGuestFromRoomSwingWorker doInBackground
+INFO: Guest(1) successfully removed from room(2)
+V 20, 2015 12:21:01 ODP. guiPackage.NewFrame$RemoveGuestFromRoomSwingWorker doInBackground
+INFO: Guest(2) successfully removed from room(1)
